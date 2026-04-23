@@ -1,0 +1,6 @@
+n=int(input("enter the number"))
+m=int(input("enter the number"))
+print("Addition:",n+m)
+print("subtarction:",n-m)
+print("multiplication:",n*m)
+print("division:",n/m)
